@@ -28,11 +28,11 @@ ________________________________________________________________________________
 
 ⚙️ Technologies Used
 
-OSPF (Open Shortest Path First) – Dynamic routing
-VLAN & Inter-VLAN Routing
-NAT (PAT) – Internet access
-ACL (Access Control List) – Security
-HSRP – Gateway redundancy
+> OSPF (Open Shortest Path First) – Dynamic routing
+>VLAN & Inter-VLAN Routing
+> NAT (PAT) – Internet access
+> ACL (Access Control List) – Security
+> HSRP – Gateway redundancy
 
 ___________________________________________________________________________________________________________________________________________________________________
 
@@ -50,17 +50,18 @@ ________________________________________________________________________________
 
 🔐 Security Implementation
 
-Configured ACL to block HR network from accessing IT network
-Allowed all other traffic for normal operations
+> Configured ACL to block HR network from accessing IT network
+
+> Allowed all other traffic for normal operations
 
 ___________________________________________________________________________________________________________________________________________________________________
 
 🌍 Features
 
-Full connectivity between HQ and branches
-Internet access using NAT (PAT)
-Dynamic routing using OSPF
-Network segmentation using VLANs
+> Full connectivity between HQ and branches
+> Internet access using NAT (PAT)
+> Dynamic routing using OSPF
+> Network segmentation using VLANs
 
 ___________________________________________________________________________________________________________________________________________________________________
 
@@ -68,17 +69,17 @@ ________________________________________________________________________________
 
 ✅ Connectivity Test
 
-Successfully pinged across VLANs and branch networks
-Verified internet access using NAT
+> Successfully pinged across VLANs and branch networks
+> Verified internet access using NAT
 
 🔁 OSPF Verification
-Routes learned dynamically across all routers
+> Routes learned dynamically across all routers
 
 🌐 NAT Verification
-Private IPs translated to public IP using PAT
+> Private IPs translated to public IP using PAT
 
 🔒 ACL Verification
-HR network blocked from accessing IT network
+> HR network blocked from accessing IT network
 
 ___________________________________________________________________________________________________________________________________________________________________
 
@@ -118,12 +119,12 @@ ________________________________________________________________________________
 
 🚀 Outcome
 
-Successfully designed and implemented a scalable enterprise network with routing, security, and internet connectivity.
+> Successfully designed and implemented a scalable enterprise network with routing, security, and internet connectivity.
 
 ___________________________________________________________________________________________________________________________________________________________________
 
 👨‍💻 Author
-Ayush Tiwari
+> Ayush Tiwari
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 

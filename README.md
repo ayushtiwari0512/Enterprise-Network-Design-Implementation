@@ -12,14 +12,17 @@ ________________________________________________________________________________
 
 🏗️ Network Architecture
 
-Head Office (HQ) with 3 departments:
+Head Office (HQ) with 3 departments :
 
-HR (VLAN 10)
-IT (VLAN 20)
-Sales (VLAN 30)
-Branch 1 and Branch 2 networks
+> HR (VLAN 10)
 
-ISP simulation for internet connectivity
+> IT (VLAN 20)
+
+> Sales (VLAN 30)
+
+> Branch 1 and Branch 2 networks
+
+> ISP simulation for internet connectivity
 
 ___________________________________________________________________________________________________________________________________________________________________
 

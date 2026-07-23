@@ -8,7 +8,7 @@ Network Design and  Implementation , this is a Cisco Packet Tracer project that 
 📌 Overview
 This project demonstrates a multi-site enterprise network built using Cisco Packet Tracer. It includes VLAN segmentation, dynamic routing, NAT for internet access, and security using ACLs.
 
-
+____________________________________________________________________________________________________________________________________________________________________
 
 🏗️ Network Architecture
 
@@ -21,6 +21,7 @@ Branch 1 and Branch 2 networks
 
 ISP simulation for internet connectivity
 
+____________________________________________________________________________________________________________________________________________________________________
 
 ⚙️ Technologies Used
 
@@ -30,6 +31,7 @@ NAT (PAT) – Internet access
 ACL (Access Control List) – Security
 HSRP – Gateway redundancy
 
+____________________________________________________________________________________________________________________________________________________________________
 
 🌐 IP Addressing Scheme
 
@@ -41,11 +43,14 @@ HSRP – Gateway redundancy
 | Branch 1       | 192.168.40.0/24    |
 | Branch 2       | 192.168.50.0/24    |
 
+____________________________________________________________________________________________________________________________________________________________________
+
 🔐 Security Implementation
 
 Configured ACL to block HR network from accessing IT network
 Allowed all other traffic for normal operations
 
+____________________________________________________________________________________________________________________________________________________________________
 
 🌍 Features
 
@@ -54,6 +59,7 @@ Internet access using NAT (PAT)
 Dynamic routing using OSPF
 Network segmentation using VLANs
 
+____________________________________________________________________________________________________________________________________________________________________
 
 🧪 Testing & Verification
 
@@ -68,3 +74,6 @@ Routes learned dynamically across all routers
 Private IPs translated to public IP using PAT
 🔒 ACL Verification
 HR network blocked from accessing IT network
+
+____________________________________________________________________________________________________________________________________________________________________
+

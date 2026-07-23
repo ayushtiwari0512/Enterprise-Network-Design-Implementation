@@ -70,8 +70,10 @@ Verified internet access using NAT
 
 🔁 OSPF Verification
 Routes learned dynamically across all routers
+
 🌐 NAT Verification
 Private IPs translated to public IP using PAT
+
 🔒 ACL Verification
 HR network blocked from accessing IT network
 

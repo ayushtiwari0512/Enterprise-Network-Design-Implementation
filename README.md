@@ -79,3 +79,7 @@ HR network blocked from accessing IT network
 
 ____________________________________________________________________________________________________________________________________________________________________
 
+📸 Screenshots
+
+🗺️ Topology
+<img width="1917" height="996" alt="Screenshot 2026-07-23 154849" src="https://github.com/user-attachments/assets/18844ab7-9b17-4d27-afa6-3fe5b3a81f69" />

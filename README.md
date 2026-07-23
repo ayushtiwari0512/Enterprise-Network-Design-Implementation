@@ -29,9 +29,13 @@ ________________________________________________________________________________
 ⚙️ Technologies Used
 
 > OSPF (Open Shortest Path First) – Dynamic routing
+
 >VLAN & Inter-VLAN Routing
+
 > NAT (PAT) – Internet access
+
 > ACL (Access Control List) – Security
+
 > HSRP – Gateway redundancy
 
 ___________________________________________________________________________________________________________________________________________________________________

@@ -1,4 +1,3 @@
-<img width="1917" height="996" alt="image" src="https://github.com/user-attachments/assets/eb10798f-2073-4a78-a901-2097bd12f0ba" /># Enterprise-Network-Design-Implementation
 Network Design and  Implementation , this is a Cisco Packet Tracer project that simulates a real-world enterprise network using VLANs, inter-VLAN routing, OSPF, DHCP, NAT, ACLs, and security features. It demonstrates scalable network architecture, efficient communication, and hands-on enterprise networking skills.
 ===================================================================================================================================================================
 

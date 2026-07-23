@@ -32,13 +32,13 @@ HSRP – Gateway redundancy
 
 🌐 IP Addressing Scheme
 
-Network	Subnet
-VLAN 10 (HR)	192.168.10.0/24
-VLAN 20 (IT)	192.168.20.0/24
-VLAN 30 (Sales)	192.168.30.0/24
-Branch 1	192.168.40.0/24
-Branch 2	192.168.50.0/24
-
+| Network        | Subnet             |
+|----------------|--------------------|
+| VLAN 10 (HR)   | 192.168.10.0/24    |
+| VLAN 20 (IT)   | 192.168.20.0/24    |
+| VLAN 30 (Sales)| 192.168.30.0/24    |
+| Branch 1       | 192.168.40.0/24    |
+| Branch 2       | 192.168.50.0/24    |
 
 🔐 Security Implementation
 

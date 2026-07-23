@@ -38,18 +38,29 @@ VLAN 20 (IT)	192.168.20.0/24
 VLAN 30 (Sales)	192.168.30.0/24
 Branch 1	192.168.40.0/24
 Branch 2	192.168.50.0/24
+
+
 🔐 Security Implementation
+
 Configured ACL to block HR network from accessing IT network
 Allowed all other traffic for normal operations
+
+
 🌍 Features
+
 Full connectivity between HQ and branches
 Internet access using NAT (PAT)
 Dynamic routing using OSPF
 Network segmentation using VLANs
+
+
 🧪 Testing & Verification
+
 ✅ Connectivity Test
+
 Successfully pinged across VLANs and branch networks
 Verified internet access using NAT
+
 🔁 OSPF Verification
 Routes learned dynamically across all routers
 🌐 NAT Verification
